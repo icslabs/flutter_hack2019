@@ -50,6 +50,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
 
             // ADD YOUR NAME HERE
             Center(child: Text("github.com/MochIsrin068"))
+            Center(child: Text("github.com/IcsLabs"))
           ],
         ),
       ),
